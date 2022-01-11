@@ -1,0 +1,17 @@
+.flex-container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container1 div {
+    color: white;
+    background-color: red;
+    padding: 36px;
+    cursor: grab;
+    font-family: 'Lato';
+    letter-spacing: 1px;
+}
+.cart {
+    padding-left: 12px;
+    padding-right: 12px;
+}
